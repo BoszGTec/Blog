@@ -9,7 +9,7 @@
       {%for post in site.posts%}
         {%if post.tag != ""%}
          {%if post.title != post.tag%}
-          <a style="padding-left:8px;" href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
+          <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
          {%endif%}
         {%endif%}
         {%if tag == ""%}

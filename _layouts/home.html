@@ -8,18 +8,22 @@
         {{content}}
         <hr/>
         <h3>Blog</h3>
+        <ul>
         {%for post in site.posts%}
          {%if post.tag != ""%}
           {%if post.title == post.tag%}
-           <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
-           <br/>
+           <li>
+            <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
+           </li>
           {%endif%}
          {%endif%}
          {%if post.tag == "cm"%}
-          <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
-          <br/>
+          <li>
+           <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
+          </li>
          {%endif%} 
         {%endfor%}
+        </ul>
       </div>
     </div>
   </body>

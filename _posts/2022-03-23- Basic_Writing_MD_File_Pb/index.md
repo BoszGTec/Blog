@@ -19,11 +19,11 @@ tag : "Basic Writing MD File"
 > ## สารบัญ
    1. การเขียนไฟล์mdที่ควรรู้
       1. [การเขียน header](Basic_Writing_MD_File_Pb-ที-ควรรู-1-การเขียน_header)
-      2. [การขึ้นบรรทัดใหม่](Basic_Writing_MD_File_Pb-ที-ควรรู-2-การขึ้นบรรทัดใหม่.html)
+      2. [การขึ้นบรรทัดใหม่](Basic_Writing_MD_File_Pb-ที-ควรรู-2-การขึ-นบรรทัดใหม่.html)
       3. [การขีดเส้นใต้](Basic_Writing_MD_File_Pb-ที-ควรรู-3-การขีดเส้นใต้.html)
       4. [การเขียน list](Basic_Writing_MD_File_Pb-ที-ควรรู-4-การเขียน_list.html)
       5. [การเขียนตัวหนา,ตัวเอียง,การขีดเส้นทับตัวหนังสือ](Basic_Writing_MD_File_Pb-ที-ควรรู-5-การเขียนตัวหนา_ตัวเอียง_การขีดเส้นทับตัวหนังสือ.html)
-      6. [การเพิ่มรูปภาพ](Basic_Writing_MD_File_Pb-ที-ควรรู-6-การเพิ่มรูปภาพ.html)
+      6. [การเพิ่มรูปภาพ](Basic_Writing_MD_File_Pb-ที-ควรรู-6-การเพิ-มรูปภาพ.html)
       7. [การแทรกลิงค์](Basic_Writing_MD_File_Pb-ที-ควรรู-7-การแทรกลิงค์.html)
       8. [การแสดงตัวอักขรพิเศษ เช่น + #](Basic_Writing_MD_File_Pb-ที-ควรรู-8-การแสดงตัวอักขรพิเศษ_เช่น_%2B_%23.html)
       9. [การทำ quotes](Basic_Writing_MD_File_Pb-ที-ควรรู-9-การทำ_quotes.html)

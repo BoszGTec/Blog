@@ -7,6 +7,7 @@
       <div style="padding:5px;width:80%;">
         {{content}}
         <hr/>
+        <h3>Blog</h3>
         {%for post in site.posts%}
         <a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <br/>

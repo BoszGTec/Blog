@@ -8,7 +8,7 @@
       <h3>Blog List</h3>
       {%for post in site.posts%}
         {%if post.tag != ""%}
-         {%if post.title == "index"%}
+         {%if post.title == post.tag%}
          <a href="{{post.url | prepend: site.baseurl}}"><p><b>{{post.tag}}</b></p></a>
          {%endif%}
          {%if post.title != "index"%}

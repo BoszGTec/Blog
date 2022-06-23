@@ -10,7 +10,7 @@
         <h3>Blog</h3>
         {%for post in site.posts%}
          {%if post.tag != ""%}
-          {%if post.title != post.tag%}
+          {%if post.title == post.tag%}
            <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
            <br/>
           {%endif%}

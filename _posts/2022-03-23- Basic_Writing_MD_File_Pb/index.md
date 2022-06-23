@@ -1,5 +1,5 @@
 ---
-title : "👻Basic Writing MD File"
+title : "Basic Writing MD File"
 layout : blog
 tag : "Basic Writing MD File"
 ---

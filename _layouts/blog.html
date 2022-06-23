@@ -16,9 +16,9 @@
          {%endif%}
         {%endif%}
         {%if tag == ""%}
-        <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
+         <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
         {%endif%}
-      <br/>
+        <br/>
       {%endfor%}
       </div>
       <div style="width:80%;padding:5px;" >{{content}}</div>

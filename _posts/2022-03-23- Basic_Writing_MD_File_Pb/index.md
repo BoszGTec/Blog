@@ -34,7 +34,7 @@ tag : "Basic Writing MD File"
       1. [การทำ Readme stats อย่างรวดเร็ว](Basic_Writing_MD_File_Pb-เพิ-มเติม-1-การทำReadme_stats.html)
       2. [การทำ Top language card อย่างรวดเร็ว](Basic_Writing_MD_File_Pb-เพิ-มเติม-2-การทำTop_language_card.html)
       3. [การทำ Repo card อย่างรวดเร็ว](Basic_Writing_MD_File_Pb-เพิ-มเติม-3-การทำRepo_card.html)
-      4. [การทำ Icon](เพิ่มเติม/4-การทำIcon.html)
+      4. [การทำ Icon](Basic_Writing_MD_File_Pb-เพิ-มเติม-4-การทำIcon.html)
       5. [การทำ Mini card](Basic_Writing_MD_File_Pb-เพิ-มเติม-5-การทำMini_card.html)
       6. [การแทรกวิดีโอจาก YouTube](Basic_Writing_MD_File_Pb-เพิ-มเติม-6-การแทรกวิดีโอจากYouTube.html)
 

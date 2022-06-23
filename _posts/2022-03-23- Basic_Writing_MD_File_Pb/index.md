@@ -20,7 +20,7 @@ tag : "Basic Writing MD File"
    1. การเขียนไฟล์mdที่ควรรู้
       1. [การเขียน header](Basic_Writing_MD_File_Pb-ที-ควรรู-1-การเขียน_header)
       2. [การขึ้นบรรทัดใหม่](Basic_Writing_MD_File_Pb-ที-ควรรู-2-การขึ-นบรรทัดใหม.html)
-      3. [การขีดเส้นใต้](Basic_Writing_MD_File_Pb-ที-ควรรู-3-การขีดเสนใต.html)
+      3. [การขีดเส้นใต้](Basic_Writing_MD_File_Pb-ที-ควรรู-3-การขีดเส-นใต.html)
       4. [การเขียน list](Basic_Writing_MD_File_Pb-ที-ควรรู-4-การเขียน_list.html)
       5. [การเขียนตัวหนา,ตัวเอียง,การขีดเส้นทับตัวหนังสือ](Basic_Writing_MD_File_Pb-ที-ควรรู-5-การเขียนตัวหนา_ตัวเอียง_การขีดเส-นทับตัวหนังสือ.html)
       6. [การเพิ่มรูปภาพ](Basic_Writing_MD_File_Pb-ที-ควรรู-6-การเพิ-มรูปภาพ.html)
@@ -29,7 +29,7 @@ tag : "Basic Writing MD File"
       9. [การทำ quotes](Basic_Writing_MD_File_Pb-ที-ควรรู-9-การทำ_quotes.html)
       10. [การทำตาราง](Basic_Writing_MD_File_Pb-ที-ควรรู-910-การทำตาราง.html)
       11. [การจัดข้อมูลในรูปแบบพิเศษ](Basic_Writing_MD_File_Pb-ที-ควรรู-911-การจัดข-อมูลในรูปแบบพิเศษ.html)
-      12. [การทำช่อง check box](Basic_Writing_MD_File_Pb-ที-ควรรู-912-การทำช่องcheck_box.html)
+      12. [การทำช่อง check box](Basic_Writing_MD_File_Pb-ที-ควรรู-912-การทำช-องcheck_box.html)
    2. เนื้อหาเพิ่มเติม
       1. [การทำ Readme stats อย่างรวดเร็ว](เพิ่มเติม/1-การทำReadme_stats.html)
       2. [การทำ Top language card อย่างรวดเร็ว](เพิ่มเติม/2-การทำTop_language_card.html)

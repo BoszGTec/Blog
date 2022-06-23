@@ -4,7 +4,7 @@
   <body>
   {%include headder.html%}
     <div class="d-flex">
-      <div style="width:20%;padding:5px;">
+      <div style="width:20%;padding:5px;background-color:#f0f0f0;">
       <h3>Blog List</h3>
       {%for post in site.posts%}
       <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>

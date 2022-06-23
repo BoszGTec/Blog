@@ -5,6 +5,8 @@
   {%include header.html%}
     <div class="d-flex jutify-content-center">
       <div style="padding:5px;width:80%;">
+        {{content}}
+        <hr/>
         {%for post in site.posts%}
         <a href="{{post.url}}">{{ post.title }}</a>
         <br/>

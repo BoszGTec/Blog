@@ -1,5 +1,5 @@
 ---
-title : การทำMini card.md
+title : การทำMini card
 layout : blog
 tag : "Basic Writing MD File"
 ---

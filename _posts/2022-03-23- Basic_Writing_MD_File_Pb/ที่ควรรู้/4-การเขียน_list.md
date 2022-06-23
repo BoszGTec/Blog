@@ -1,6 +1,6 @@
 ---
-title : การขึ้นบรรทัดใหม่
-layout : การเขียน list
+title : "การเขียน list"
+layout : blog
 tag : "Basic Writing MD File"
 ---
 ## การเขียน list

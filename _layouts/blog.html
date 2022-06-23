@@ -11,7 +11,7 @@
          {%if post.title == post.tag%}
          <a href="{{post.url | prepend: site.baseurl}}"><p><b>{{post.tag}}</b></p></a>
          {%endif%}
-         {%if post.title != "index"%}
+         {%if post.title != post.tag%}
           <a style="padding-left:8px;" href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
          {%endif%}
         {%endif%}

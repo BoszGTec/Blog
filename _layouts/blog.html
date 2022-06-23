@@ -10,12 +10,13 @@
         {%if post.tag != ""%}
          {%if post.title == post.tag%}
            <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
+           <br/>
          {%endif%}
         {%endif%}
         {%if post.tag == "cm"%}
-          <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
-        {%endif%}
-      {%endfor%}
+         <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>        {%endif%}
+         <br/>
+       {%endfor%}
       </ul>
       </div>
       <div style="width:80%;padding:5px;overflow-x:hidden;" >{{content}}</div>

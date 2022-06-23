@@ -1,7 +1,9 @@
 ---
 title : about
-layout : 
+layout : about
 ---
+### About
+
 This site powered by [Jekyll](https://jekyllrb.com).
 Style powered by [Bootstrap](https://getbootstrap.com).
 

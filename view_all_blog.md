@@ -5,4 +5,3 @@ layout : show_all
 
 All Blog
 
-All Tag

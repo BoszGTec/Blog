@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-  {%include head.html%}
+  {%include head.html%} 
   <body>
   {%include headder.html%}
     <div class="d-flex">
@@ -14,12 +14,13 @@
          {%endif%}
         {%endif%}
         {%if post.tag == "cm"%}
-         <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>       
+         <a href="{{post.url | prepend: site.baseurl }}">{{ post.title }}</a>       
          <br/>
         {%endif%}
        {%endfor%}
       </div>
       <div id="ct" >{{content}}</div>
+      <div id="add_credit_here" ></div>
     </div>
   </body>
   {%include footer.html%}

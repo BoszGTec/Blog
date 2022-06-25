@@ -7,10 +7,13 @@
       <div style="padding:5px;width:80%;">
         {{content}}
         <hr/>
-        <h3>Blog</h3>
-        {%for post in site.info%}
-          <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
-          <br/>
+        {%for tag in site.tag%}
+         {{tag[0]}}
+         {%for post in tag%}
+          {%for p in post%}
+           <a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
+           <br/>
+         {%endfor%}
         {%endfor%}
       </div>
     </div>

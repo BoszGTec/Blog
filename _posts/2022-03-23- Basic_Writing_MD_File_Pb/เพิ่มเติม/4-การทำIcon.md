@@ -2,6 +2,7 @@
 title : การทำIcon
 layout : blog
 tag : "Basic Writing MD File"
+category : Basic Writing MD
 ---
 # การทำIcon
 > ## การทำ

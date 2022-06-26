@@ -9,8 +9,8 @@
         <hr/>
         {%for tag in site.tags%}
          {{tag[0]}}
-         {%for post in tag%}
-          {%for p in post| sort: "url"| reverse%}
+         {%for post in tag| reverse%}
+          {%for p in post%}
            <a href="{{p.url | prepend: site.baseurl}}">{{ p.title }}</a>
            <br/>
           {%endfor%}

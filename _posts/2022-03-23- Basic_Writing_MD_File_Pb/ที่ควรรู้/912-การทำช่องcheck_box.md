@@ -2,6 +2,7 @@
 title : "การทำช่องcheck box"
 layout : blog
 tag : "Basic Writing MD File"
+category : Basic Writing MD
 ---
 ## การทำช่อง check box
   + แบบไม่ใช่ ใช้รูปแบบการเขียนดังนี้ <br>

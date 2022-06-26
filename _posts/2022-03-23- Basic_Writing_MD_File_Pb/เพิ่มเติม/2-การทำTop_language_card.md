@@ -2,6 +2,7 @@
 title : "การทำ Top language card อย่างรวดเร็ว"
 layout : blog
 tag : "Basic Writing MD File"
+category : Basic Writing MD
 ---
 # การทำ Top language card อย่างรวดเร็ว
 <img width="100%" src="https://raw.githubusercontent.com/BoszGTec/Basic-Writing-MD-File-Pb/main/%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1/img/SmartSelect_20220517-220343_Opera.jpg">

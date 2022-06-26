@@ -2,6 +2,7 @@
 title : "การเขียน list"
 layout : blog
 tag : "Basic Writing MD File"
+category : Basic Writing MD
 ---
 ## การเขียน list
  + แบบไม่เป็นตัวเลข ใช้รูปแบบการเขียนดังนี้ <br>

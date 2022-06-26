@@ -2,6 +2,7 @@
 title : "การเขียน header"
 layout : blog
 tag : "Basic Writing MD File"
+category : Basic Writing MD
 ---
 ## การเขียน header 
   + ใช้รูปแบบการเขียนดังนี้ ```# ข้อความ``` 

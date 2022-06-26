@@ -10,7 +10,7 @@
         {%for tag in site.tags%}
          {{tag[0]}}
          {%for post in tag%}
-          {%for p in post|sort: "url"%}
+          {%for p in post| sort: "url"| reverse%}
            <a href="{{p.url | prepend: site.baseurl}}">{{ p.title }}</a>
            <br/>
           {%endfor%}

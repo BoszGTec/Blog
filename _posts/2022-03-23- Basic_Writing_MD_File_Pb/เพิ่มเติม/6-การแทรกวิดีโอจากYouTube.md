@@ -2,6 +2,7 @@
 title : การแทรกวิดีโอจากYouTube
 layout : blog
 tag : "Basic Writing MD File"
+category : Basic Writing MD
 ---
 # การแทรกวิดีโอจาก <img height="30px" src="https://camo.githubusercontent.com/e82f14902b71f0cb280c20045358a4c15abecfa5ca5103dbe5e6e16a45794fbb/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f796f75747562652d69636f6e2e737667" />YouTube
 > ## การแทรก

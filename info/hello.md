@@ -1,7 +1,6 @@
 ---
 title : "Hello"
 layout : blog
-tag : "cm"
 ---
 # Hello 👋
 ![](https://c.tenor.com/9n08OE8c-b0AAAAM/spy-x-family-spy-family.gif)

@@ -11,4 +11,4 @@ layout : home
 </center>
 
 Pin
-+ [Hello](/info/hello)
++ [Hello](info/hello)

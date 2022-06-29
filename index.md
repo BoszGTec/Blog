@@ -9,5 +9,6 @@ layout : home
 <center>
   <h2>Wellcome To BoszGTec Blog <img width="20"  src="https://user-images.githubusercontent.com/95701554/176487274-962b77ed-2175-4e06-a150-4855c403a1f3.gif" /></h2>
 </center>
+
 Pin
 + [Hello](/info/hello)

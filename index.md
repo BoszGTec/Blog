@@ -14,4 +14,4 @@ layout : home
 <br/>
 
 ### Pin
-+ [Hello](info/hello)
++ #### [Hello](info/hello)

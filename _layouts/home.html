@@ -18,7 +18,7 @@
                 <h4>{{ post.title }}</h4>
                 <p>{{post.showtext}}</p>
               </div>
-              <img style="text-decorate : none;" src="{{post.image}}" style="max-height : 90px;" />
+              <img src="{{post.image}}" />
              </a>
            </li>
           {%endif%}
@@ -28,9 +28,9 @@
             <a href="{{post.url | prepend: site.baseurl}}" class="d-flex justify-content-between box-post-ct">
               <div>
                 <h4>{{ post.title }}</h4>
-                <p style="text-decorate : none;" >{{post.showtext}}</p>
+                <p>{{post.showtext}}</p>
               </div>
-              <img src="{{post.image}}" style="max-height : 90px;" />
+              <img src="{{post.image}}" />
              </a>
           </li>
          {%endif%} 

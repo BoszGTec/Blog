@@ -13,22 +13,22 @@
          {%if post.tag != ""%}
           {%if post.title == post.tag%}
            <li>
-            <a href="{{post.url | prepend: site.baseurl}}" class="d-flex justify-content-between">
+            <a href="{{post.url | prepend: site.baseurl}}" class="d-flex justify-content-between box-post-ct" >
               <div>
                 <h4>{{ post.title }}</h4>
                 <p>{{post.showtext}}</p>
               </div>
-              <img src="{{post.image}}" style="max-height : 90px;" />
+              <img style="text-decorate : none;" src="{{post.image}}" style="max-height : 90px;" />
              </a>
            </li>
           {%endif%}
          {%endif%}
          {%if post.tag == "cm"%}
           <li>
-            <a href="{{post.url | prepend: site.baseurl}}" class="d-flex justify-content-between">
+            <a href="{{post.url | prepend: site.baseurl}}" class="d-flex justify-content-between box-post-ct">
               <div>
                 <h4>{{ post.title }}</h4>
-                <p>{{post.showtext}}</p>
+                <p style="text-decorate : none;" >{{post.showtext}}</p>
               </div>
               <img src="{{post.image}}" style="max-height : 90px;" />
              </a>

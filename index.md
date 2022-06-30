@@ -13,5 +13,5 @@ layout : home
 </div>
 <br/>
 
-### Pin
+### 📌Pin
 + #### [Hello](info/hello)

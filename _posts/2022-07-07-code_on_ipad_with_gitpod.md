@@ -6,7 +6,7 @@ category : git
 image : https://user-images.githubusercontent.com/95701554/177801221-ee7c8819-0728-4046-a0e7-fdb208b80484.jpeg
 showtext : มาลองเขียนโค้คบนipadโดยใช้ Gitpoad ดูกัน...
 ---
-# เขียนบนipadด้วยGitpod
+# เขียนโค้ดบนipadด้วยGitpod
 มาลองเขียนโค้คบนipadโดยใช้ Gitpoad ดูกัน
 ![IMG_0051](https://user-images.githubusercontent.com/95701554/177801221-ee7c8819-0728-4046-a0e7-fdb208b80484.jpeg)
 

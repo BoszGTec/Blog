@@ -4,9 +4,10 @@ tag : cm
 layout : blog
 category : git
 image : https://user-images.githubusercontent.com/95701554/177801221-ee7c8819-0728-4046-a0e7-fdb208b80484.jpeg
+showtext : มาลองเขียนโค้คบนipadโดยใช้ Gitpoad ดูกัน...
 ---
 # เขียนบนipadด้วยGitpod
-มาลองเขียนโค้คโดยใช้ Gitpoad ดูกัน
+มาลองเขียนโค้คบนipadโดยใช้ Gitpoad ดูกัน
 ![IMG_0051](https://user-images.githubusercontent.com/95701554/177801221-ee7c8819-0728-4046-a0e7-fdb208b80484.jpeg)
 
 ## เริ่มต้น

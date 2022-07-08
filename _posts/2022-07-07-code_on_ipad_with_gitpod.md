@@ -3,10 +3,11 @@ title : เขียนโค้ดบนipadด้วยGitpod
 tag : cm
 layout : blog
 category : git
-image : https://user-images.githubusercontent.com/95701554/177801221-ee7c8819-0728-4046-a0e7-fdb208b80484.jpeg
+image : https://user-images.githubusercontent.com/95701554/178019143-ec697104-e397-4c10-821a-ec1d5d1e724b.png
 showtext : มาลองเขียนโค้คบนipadโดยใช้ Gitpoad ดูกัน...
 ---
-![IMG_0051](https://user-images.githubusercontent.com/95701554/177801221-ee7c8819-0728-4046-a0e7-fdb208b80484.jpeg)
+![1](https://user-images.githubusercontent.com/95701554/178019143-ec697104-e397-4c10-821a-ec1d5d1e724b.png)
+
 
 # เขียนโค้ดบนipadด้วยGitpod
 <hr/>

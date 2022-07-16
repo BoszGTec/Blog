@@ -1,6 +1,7 @@
 ---
 title : flowchart
 layout :  blog
+tag : cm
 ---
 # Test
 ```mermaid

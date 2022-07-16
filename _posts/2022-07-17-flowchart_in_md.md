@@ -1,3 +1,7 @@
+---
+title : flowchart
+layout :  blog
+---
 # Test
 ```mermaid
 flowchart TD
